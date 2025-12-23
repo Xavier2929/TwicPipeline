@@ -8,3 +8,11 @@ with "git branch"
 
 if I wanna move to another branch
 use " git checkout branchname "
+
+if I wanna add the changes to a new commit
+"git add . "
+
+if I wanna install/reinstall the libraries
+mention on the requirements txt file run 
+" pip install -r requirements.txt "
+(run it when the venv is activated)
