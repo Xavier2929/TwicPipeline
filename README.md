@@ -4,7 +4,7 @@ This proyect based on python was made for the necesity to extract the most recen
 
 ## 🚀 Tech Stack
 
-- Python 3.x
+- Python 3.12.4
 
 ## 📦 Requirements
 

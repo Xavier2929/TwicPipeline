@@ -1,0 +1,10 @@
+This is not a must but here I'll add a dev diary on notes
+that may help me further and some reflections throught the development of
+this project.
+
+12/23/2025
+always check the current branch 
+with "git branch"
+
+if I wanna move to another branch
+use " git checkout branchname "
