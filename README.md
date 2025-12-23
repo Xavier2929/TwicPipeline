@@ -23,7 +23,7 @@ This proyect based on python was made for the necesity to extract the most recen
 ## 🏅 Milestones
 
 - demo where you manualy put in the code the number of the twic and downloads the twic and stores it on a folder ✅ 12/33/2025
-- get the last twic number automaticaly and use it as the twic number for the download
+- get the last twic number automaticaly and use it as the twic number for the download ✅ 12/33/2025
 - merge all the pgn files from the folder and merge it to a master pgn were it will be updated with this merge file.
 - refact the code from the previous milestones
 - move all the notebook code into normal .py and mount it on Fabric (the refact into .py will be available only)
