@@ -1,2 +1,4 @@
 requests
 ipykernel
+beautifulsoup4
+python-chess
