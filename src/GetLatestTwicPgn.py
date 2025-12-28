@@ -13,4 +13,6 @@ class GetLatestTwicPgn:
 
         zip_bytes = BytesIO(response.content)
         with zipfile.ZipFile(zip_bytes) as zip_file:
-            return zip_file.filelist[0]
+            pgn_name = zip_file.filelist[0].filename
+            pgn_bytes = zip_file.read(pgn_name)
+            return pgn_bytes
