@@ -20,11 +20,12 @@ This proyect based on python was made for the necesity to extract the most recen
 - make a .env file with the const of TWIC_URL and TWIC_FILES_FOLDER and give it string values.
 - run the .py "WeeklyTwicPipeline just to get the latest twic pgn file.
 - to run the backfill, use the BackfillPipeline , and modify the start and finish params manually.
+- to run the merge all pgns, use the MergeTwics .py script
 
 ## 🏅 Milestones
 
 - demo where you manualy put in the code the number of the twic and downloads the twic and stores it on a folder ✅ 12/23/2025
 - get the last twic number automaticaly and use it as the twic number for the download ✅ 12/23/2025
 - merge all the pgn files from the folder and merge it to a master pgn were it will be updated with this merge file.✅ 12/24/2025
-- refact the code from the previous milestones
-- move all the notebook code into normal .py and mount it on Fabric (the refact into .py will be available only)
+- refact the code from the previous milestones ✅ 12/28/2025
+- move all the notebook code into normal .py and mount it on Fabric (the refact into .py will be available only) ✅ 12/28/2025
