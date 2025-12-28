@@ -18,7 +18,7 @@ This proyect based on python was made for the necesity to extract the most recen
 - have the required python version.
 - run the requirements txt file with pip install -r requirements.txt
 - make a .env file with the const of TWIC_URL and TWIC_FILES_FOLDER and give it string values.
-- run the program.
+- run the .py "WeeklyTwicPipeline just to get the latest twic pgn file.
 
 ## 🏅 Milestones
 
