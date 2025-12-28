@@ -16,3 +16,6 @@ if I wanna install/reinstall the libraries
 mention on the requirements txt file run 
 " pip install -r requirements.txt "
 (run it when the venv is activated)
+
+if I wanna use methods/func on the same class, when calling the methods,
+use the self reserved word, like self.func_name()
